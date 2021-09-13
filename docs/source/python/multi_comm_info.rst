@@ -6,4 +6,4 @@ The multi-device communication system implements communication between robots th
 
 When using this system, you must add all target robots to the same LAN and use the official Python API for programming in order to implement the communication mechanism between robots and realize other functions.
 
-For the Python API, refer to :doc:`Custom UI System<./multi_comm>`_.
+For the Python API, refer to :doc:`Custom UI System<./multi_comm>`.
